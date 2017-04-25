@@ -1,0 +1,4 @@
+﻿  pot.cpp
+c:\users\albert\documents\visual studio 2017\projects\pot\pot\pot.cpp(20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  pot.vcxproj -> c:\users\albert\documents\visual studio 2017\Projects\pot\Debug\pot.exe
+  pot.vcxproj -> c:\users\albert\documents\visual studio 2017\Projects\pot\Debug\pot.pdb (Partial PDB)
